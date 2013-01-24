@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RDF:RDF
+  xmlns:em="http://www.mozilla.org/2004/em-rdf#"
+  xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <RDF:Description about="urn:mozilla:extension:l2306helper@163.com">
+    <em:signature>MIGTMA0GCSqGSIb3DQEBDQUAA4GBACYSg5yHXHBo7b5S7woD06B+t5Z+RNJMlHyR6fVeMJQqLBS5F28Ac+Ic5p0Ti49n1QaldZCNGNCFWXgyDUZafshOMfsI0o8CiSwaVDYx8yQd9xeSOh2Lu2BXXM3vORjLcYC0+2cJJ0pdKkIYyTFeYy+tk+KHrthxjo1lwHL1e7Yd</em:signature>
+    <em:updates>
+      <RDF:Seq>
+        <RDF:li>
+          <RDF:Description>
+            <em:targetApplication>
+              <RDF:Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:maxVersion>18.0</em:maxVersion>
+                <em:minVersion>4.0</em:minVersion>
+                <em:updateHash>sha256:d245f46acbe4e868c501b5f0d73ea0210c6a06b799e345fd4880a9154d3626bd</em:updateHash>
+                <em:updateLink>http://l2306helper.github.com/12306helper/12306helper-0.5.xpi</em:updateLink>
+              </RDF:Description>
+            </em:targetApplication>
+            <em:version>0.5</em:version>
+          </RDF:Description>
+        </RDF:li>
+      </RDF:Seq>
+    </em:updates>
+  </RDF:Description>
+</RDF:RDF>
